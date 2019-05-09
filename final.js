@@ -1,5 +1,6 @@
 // Program to multiply two numbers
 
-mul = (x, y) => {
+multiply = (x, y) => {
     return x * y
 }
+console.log(multiply(5,10))
