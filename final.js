@@ -1,5 +1,8 @@
 // Program to multiply two numbers
 
-mul = (x, y) => {
-    console.log(x*y)
+multiply = (x, y) => {
+    const a=x
+    const b=y
+    return a*b
 }
+console.log(multiply(5,10))
