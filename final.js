@@ -1,5 +1,5 @@
 // Program to multiply two numbers
 
-mul = (x, y) => {
-    return x * y
+c = (a, b) => {
+    return a * b
 }
