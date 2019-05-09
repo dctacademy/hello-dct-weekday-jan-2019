@@ -1,5 +1,9 @@
 // Program to multiply two numbers by passing argument
 
-mul = (x, y) => {
-    return x * y
+multiplyTwoNumbers = (x, y, z) => {
+    return (x * y * z)
+}
+
+divideTwoNumbers = (x, y, z) => {
+    return (x / y / z)
 }
